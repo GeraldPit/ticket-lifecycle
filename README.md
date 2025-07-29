@@ -22,10 +22,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Intake: The ticket is created (by a user or staff) through email, web form or phone 
+- Assignment and Communication: The Ticket is assigned to an appropriate team or technician, Intial communication with the user starts to acknowledge receipt and gather more details as needed 
+- Working the Issue: The Technician investigates, troubleshoots and works towards resolution, Updates and ongoing communication with the user about progress via ticket comments or emails
+- Resolution: Issue is resolved and the fix is documented in the ticket, The resolution is communicated to the user, Ticket status is set to "Resolved" or "Closed once confirmed or after a set period
 
 <h2>Lifecycle Stages</h2>
 
