@@ -8,8 +8,6 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
@@ -28,27 +26,18 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - Resolution: Issue is resolved and the fix is documented in the ticket, The resolution is communicated to the user, Ticket status is set to "Resolved" or "Closed once confirmed or after a set period
 
 <h2>Lifecycle Stages</h2>
+New/Open
+<p>
+<img width="1287" height="584" alt="Screenshot 2025-08-04 at 9 14 46 PM" src="https://github.com/user-attachments/assets/0e20d722-6535-4634-8e0d-1712e023619f" />
+<img width="1287" height="471" alt="Screenshot 2025-08-04 at 9 47 19 PM" src="https://github.com/user-attachments/assets/ec2c7fa7-a1df-409b-9c15-477251f93022" />
+
+Assigned
+<img width="1909" height="608" alt="Screenshot 2025-08-04 at 9 27 47 PM" src="https://github.com/user-attachments/assets/4da88bfc-a05b-4378-9300-af5636c68456" />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+In progress/Work in progress 
+<img width="1759" height="939" alt="Screenshot 2025-08-04 at 9 29 44 PM" src="https://github.com/user-attachments/assets/6799c15f-d788-46bd-b7c8-f2058aec8e03" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+Resolved 
+<img width="1203" height="451" alt="Screenshot 2025-08-04 at 9 45 54 PM" src="https://github.com/user-attachments/assets/6dd79fbc-877e-4ccd-938e-de68797652cd" />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br /># ticket-lifecycle
